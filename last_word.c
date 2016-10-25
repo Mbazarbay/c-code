@@ -1,12 +1,8 @@
 #include <stdio.h>
 #include <string.h>
 
-
 /* This program returns the length of the last word in a passed in string
-
- * It does not matter if the last word was Upper/lowercase
-
- * */
+ * It does not matter if the last word was Upper/lowercase */
 
 int LastWord(const char* s) {
     int len = strlen(s),i;
