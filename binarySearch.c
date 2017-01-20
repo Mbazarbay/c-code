@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /*To compile: gcc -o binaySearch binaySearch.c
- *To excute: ./binaySearch*/
+ *To execute: ./binaySearch*/
 
 /* This program finds a specific number in a list*/
 /* Note: in order to perform the binary search, the array must be sorted in advance. */
